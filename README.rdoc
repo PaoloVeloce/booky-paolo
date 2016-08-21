@@ -1,0 +1,13 @@
+Book Review with Rails 4
+
+
+I've choosed Book Review as first how-to learn app because I passionate of reading books
+
+So, I've decided to make such app for portfolio - people will take a grasp about my thoughts content by scanning such BookReview app
+
+Used:
+- bootstrap-sass
+- paperclip
+- raty_ratings
+- devise
+- jquery
